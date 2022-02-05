@@ -13,15 +13,20 @@ Per decision-maker's request, the below 2 deliveriables will be presented:
   - **Rural** cities have the **least** amount of Total Rides, Total Dirvers, and Total Fares. 
   - **Urban** cities have the **most** amount of Total Rides, Total Dirvers, and Total Fares. 
   - **Suburban** cities are in between Rural and Suburban in terms of rides, drivers and fares.
-**Less population** leads to the **highest costs** of fare per Ride and per driver.
-**More pupolation** leads to the **lowest costs** of fare per Ride and per drive
+
 ![](analysis/summary_data.png)
 
-
 ### Total Fare by city type chart between Jan to Apr 2019
-
+As we can see that the total fares for the Rural and Suburban markets are considerably lower than in the Urban markets. 
 ![](analysis/PyBer_fare_summary.png)
 
-## Summary
+#### Conclusion 
+From the above, we can come tp the conclusion that :
+1. **Less population** leads to the **highest costs** of fare per Ride and per driver.
+2. **More pupolation** leads to the **lowest costs** of fare per Ride and per drive.
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
+## Summary
+To sum up of the analysis, below are the 3 suggestions for the business decision maker:
+ - Improve the margin profit of Urban market by decreasing Urban drivers or increasing cost of riding. More population and usage means less earniing for the drivers and less profit.
+ - Offer campigns to encourage drivers to work in Suburban and Rural citiesif they pick up riders in these 2 areas.
+ - Offer different discount to riders who take rides from Urban to Rural/Suburban or from Rural/Suburban to increase the mobility between or 3 cities.
