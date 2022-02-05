@@ -21,7 +21,7 @@ As we can see that the total fares for the Rural and Suburban markets are consid
 ![](analysis/PyBer_fare_summary.png)
 
 #### Conclusion 
-From the above, we can come tp the conclusion that :
+From the above, we can come to the conclusion that :
 1. **Less population** leads to the **highest costs** of fare per Ride and per driver.
 2. **More pupolation** leads to the **lowest costs** of fare per Ride and per drive.
 
