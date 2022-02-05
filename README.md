@@ -27,6 +27,6 @@ From the above, we can come to the conclusion that :
 
 ## Summary
 To sum up of the analysis, below are the 3 suggestions for the business decision maker:
- - Improve the margin profit of Urban market by decreasing Urban drivers or increasing cost of riding. More population and usage means less earniing for the drivers and less profit.
+ - Improve the margin profit of Urban market by decreasing Urban drivers or increasing cost of riding. More population and usage means less earning for the drivers and less profit.
  - Offer campigns to encourage drivers to work in Suburban and Rural citiesif they pick up riders in these 2 areas.
  - Offer different discount to riders who take rides from Urban to Rural/Suburban or from Rural/Suburban to increase the mobility between or 3 cities.
