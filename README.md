@@ -10,8 +10,8 @@ Per decision-maker's request, the below 2 deliveriables will be presented:
 
 ## Results
 ### Comparison between 3 city types:
-  - **Rural** cities have the **least** amount of Total Rides, Total Dirvers, and Total Fares. 
-  - **Urban** cities have the **most** amount of Total Rides, Total Dirvers, and Total Fares. 
+  - **Rural** cities have the **least** amount of Total Rides, Total Drivers, and Total Fares. 
+  - **Urban** cities have the **most** amount of Total Rides, Total Drivers, and Total Fares. 
   - **Suburban** cities are in between Rural and Suburban in terms of rides, drivers and fares.
 
 ![](analysis/summary_data.png)
